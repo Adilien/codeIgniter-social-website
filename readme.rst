@@ -1,5 +1,5 @@
 *******************
-Project
+codeIgniter-social-website
 *******************
 
 A website built on a MVC which allows users to login, post messages and follow other users.
